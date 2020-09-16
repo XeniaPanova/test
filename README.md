@@ -1,1 +1,1 @@
-# test rsschool-cv
+https://github.com/XeniaPanova/test.git
